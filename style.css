@@ -78,7 +78,6 @@ a:hover {
     text-decoration: underline;
 }
 .footer {
-   display: flex;
-   flex-direction: column; 
+   display: flex; 
    justify-content: center;
 }
