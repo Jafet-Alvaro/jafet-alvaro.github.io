@@ -76,3 +76,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
+footer {
+    position: center;
+}
