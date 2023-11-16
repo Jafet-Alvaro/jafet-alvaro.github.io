@@ -77,5 +77,6 @@ a:hover {
     text-decoration: underline;
 }
 footer {
-    position: center;
+   display: flex;
+    justify-content: center;
 }
