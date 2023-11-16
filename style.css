@@ -1,0 +1,78 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+
+#subtitulo {
+    color:rgb(255, 255, 255);
+    font-size: 1.7rem;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+    background-color: #195fa9;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1 {margin-bottom: 10px;
+    text-shadow:
+    1px 1px 3px black,
+    0 0 1em #195fa9,
+    0 0 0.2em #195fa9;
+  color: white;
+  font-size: 2.7rem;
+}
+
+p {
+    color: white; text-shadow: black 0.07em 0.07em 0.07em
+
+}
+
+.imagen {
+    width: 100%;
+}
+section {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+    
+}
+
+#biografia {
+    background-color: #ffc107; /* Amarillo */
+}
+
+#proyectos {
+    background-color: #28a745; /* Verde */
+}
+
+#habilidades {
+    background-color: #007bff; /* Azul */
+}
+
+#contacto {
+    background-color: #dc3545; /* Rojo */
+}
+
+h2 {
+    color: #ffffff;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+/* Estilos para enlaces */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
