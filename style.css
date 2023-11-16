@@ -36,6 +36,7 @@ p {
 
 .imagen {
     width: 100%;
+    height: auto;
 }
 section {
     padding: 20px;
