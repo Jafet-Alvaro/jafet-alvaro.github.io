@@ -78,5 +78,5 @@ a:hover {
 }
 footer {
    display: flex;
-    justify-content: center;
+   align-item: center;
 }
