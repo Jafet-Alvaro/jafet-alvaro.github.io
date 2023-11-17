@@ -29,10 +29,15 @@ h1 {margin-bottom: 10px;
   font-size: 2.7rem;
 }
 
-p ul {
+p {
     color: white; text-shadow: black 0.07em 0.07em 0.07em
 
 }
+
+ul {
+        color: white; text-shadow: black 0.07em 0.07em 0.07em
+}
+    
 
 .imagen {
     width: 100%;
