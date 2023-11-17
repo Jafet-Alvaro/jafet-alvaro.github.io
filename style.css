@@ -38,13 +38,12 @@ p ul {
     width: 100%;
     height: auto;
 }
-section, ul{
+section {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
     font-size: 1.4rem;
-    
 }
 
 #biografia {
